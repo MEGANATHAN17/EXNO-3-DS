@@ -43,7 +43,7 @@ We use this categorical data encoding technique when the features are nominal(do
         <img width="1075" height="602" alt="image" src="https://github.com/user-attachments/assets/e53b2b3d-6c55-4526-8585-7d07182b40fe" />
         <img width="765" height="617" alt="image" src="https://github.com/user-attachments/assets/3e25193e-de42-4831-9a26-12c7be5afc87" />
           <img width="781" height="680" alt="image" src="https://github.com/user-attachments/assets/85e0860f-f308-4af1-ab4c-615c1fda5ad3" />
-        -<img width="782" height="686" alt="image" src="https://github.com/user-attachments/assets/08f17be8-4429-4e7d-a7b1-a33b79692fd5" />
+        <img width="782" height="686" alt="image" src="https://github.com/user-attachments/assets/08f17be8-4429-4e7d-a7b1-a33b79692fd5" />
         <img width="638" height="585" alt="image" src="https://github.com/user-attachments/assets/53f4b035-bb88-48f3-b737-873dfdab1132" />
         <img width="674" height="573" alt="image" src="https://github.com/user-attachments/assets/4b570d62-1450-440e-a415-b302e6a45325" />
         <img width="734" height="573" alt="image" src="https://github.com/user-attachments/assets/905ad81f-bb14-4cf8-b508-b2af386ada81" />
@@ -56,6 +56,7 @@ We use this categorical data encoding technique when the features are nominal(do
         <img width="783" height="597" alt="image" src="https://github.com/user-attachments/assets/25551980-1a21-45a1-a599-ed26d3acb590" />
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+
+       Thus the given data, Feature Encoding, Transformation process and save the data to a file was performed successfully.
 
        
